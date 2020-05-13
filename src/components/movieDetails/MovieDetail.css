@@ -1,0 +1,31 @@
+.movie-details {
+    max-width: 27rem;
+    position: relative;
+}
+
+.close-icon {
+    position: absolute;
+    top: 5px;
+    right: 10px;
+    color: #3c3c41;
+}
+
+.card-footer {
+    background-color: #3c3c41;
+}
+
+.director-name {
+    color: #f7de4b;
+}
+
+.movie-info{
+    background-color: #1d2027;
+}
+
+.camera,
+.imdb,
+.youtube,
+.unfav,
+.release-year {
+    color: #ffffff !important;
+}

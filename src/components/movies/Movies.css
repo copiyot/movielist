@@ -1,0 +1,28 @@
+@media only screen and (min-width: 900px) {
+    .card-columns {
+        column-count: 4;
+    }
+}
+
+@media only screen and (min-width: 900px) {
+    .card-columns.shrink {
+        column-count: 3;
+    }
+}
+
+.watchlist-title {
+    font-size: 40px;
+    color: #ffffff;
+}
+
+.favorite-title {
+    color: #ffffff;
+}
+
+.main-page {
+    background-color: #1d2027;
+}
+
+hr {
+    background-color: grey;
+}

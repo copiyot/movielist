@@ -1,0 +1,18 @@
+/* //#272a33 f7de4b */
+.nav {
+    background-color: #3c3c41;
+    border-color: #1d2027 !important;
+}
+
+.nav-tabs .nav-link.disabled {
+    color: white;
+}
+
+i.fas.fa-star {
+    color: #f7de4b;
+}
+
+a.nav-link.active {
+    background: #1d2027 !important;
+    border-color: #1d2027 !important;
+}

@@ -1,0 +1,19 @@
+.card-body {
+    background-color: #3c3c41;
+}
+
+.card-title {
+    color: #ffffff;
+}
+
+.movie-overview {
+    color: #f7de4b !important;
+}
+
+.release-year {
+    color: #ffffff !important;
+}
+
+.card {
+    border-radius: 5px !important;
+}
